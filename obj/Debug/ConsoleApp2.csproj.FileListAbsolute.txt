@@ -1,0 +1,7 @@
+C:\Users\Kamran Azizov\Desktop\windows-form-lesson\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Kamran Azizov\Desktop\windows-form-lesson\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Kamran Azizov\Desktop\windows-form-lesson\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Kamran Azizov\Desktop\windows-form-lesson\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Kamran Azizov\Desktop\windows-form-lesson\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Kamran Azizov\Desktop\windows-form-lesson\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Kamran Azizov\Desktop\windows-form-lesson\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
